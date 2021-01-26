@@ -2,6 +2,9 @@ yahye123
 admin
 admin123
 cali123
+muna123
+muna@123
+muna#123
 ayaanle123
 maxamed123
 mohamed123
@@ -17,6 +20,9 @@ password
 axmed123
 yasin123
 safiya123
+farah123
+farah@123
+farah#123
 nasir123
 ayaan123
 hajira123
